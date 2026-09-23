@@ -9,6 +9,8 @@
 Para trompeta, trombón y saxofón.
 En tu tono, tu clave y con tus pistones o posiciones bajo cada nota.
 
+**[▶ Abrir en horns.redtiger.studio](https://horns.redtiger.studio)**
+
 `Gratis` · `Sin cuenta` · `Sin instalar`
 
 </div>
@@ -46,8 +48,8 @@ Notas con audio: pasas por encima y suenan.
 
 ## Estado
 
-App web terminada, construida como PWA — se instala desde el navegador.
-Pendiente de desplegar.
+**En vivo** en [horns.redtiger.studio](https://horns.redtiger.studio).
+Construida como PWA: desde el navegador se instala como app en el teléfono.
 
 <br>
 
