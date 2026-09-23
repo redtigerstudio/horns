@@ -1,52 +1,53 @@
 <div align="center">
 
+<img src="assets/cover.jpg" alt="HORNS">
+
 # HORNS
 
-### Tu tono, tu clave, tus pistones
+### La escala escrita como tú la lees
 
-App de práctica para músicos de viento.
-Trompeta · Trombón · Saxofón
+Para trompeta, trombón y saxofón.
+En tu tono, tu clave y con tus pistones o posiciones bajo cada nota.
 
-</div>
+`Gratis` · `Sin cuenta` · `Sin instalar`
 
-<br>
-
-<div align="center">
-<img src="assets/horns-tu-tono-tu-clave.png" width="560" alt="HORNS">
 </div>
 
 <br>
 
 ## Qué resuelve
 
-Un músico de viento necesita cuatro herramientas para practicar y termina con
-cuatro apps abiertas. HORNS las junta en una, y todo se adapta a la transposición
-de tu instrumento.
+Un músico de viento abre cuatro apps para practicar: partitura, digitaciones,
+metrónomo y afinador. HORNS las junta en una pantalla — y todo se transpone
+automáticamente a la clave real de tu instrumento.
+
+<br>
+
+<img src="assets/app.jpg" alt="La app de HORNS">
+
+<br>
+
+## Qué trae
 
 | | |
 |---|---|
-| **Partitura** | Notas y escalas en pantalla |
-| **Digitaciones** | Pistones y llaves — trompeta, trombón, sax |
-| **Metrónomo** | Tempo ajustable |
-| **Afinador** | Referencia A 440 Hz |
-| **Transposición** | Todo en la clave real de tu instrumento |
+| **Escalas** | Cualquier tono, cualquier escala, escritas en pentagrama |
+| **Digitaciones** | Pistones y posiciones debajo de cada nota |
+| **Metrónomo** | Click con BPM ajustable |
+| **Afinador** | Entrada de micrófono en la misma pantalla |
+| **Modos** | Tú repites · Loop · Azar · Rutina |
+| **Rutinas** | Ejercicios encadenados en una sesión |
+| **Racha** | Contador de días de práctica |
+| **Idiomas** | Español e inglés |
 
-<br>
-
-> *Brass players, better days. Sax players, brighter tones.*
-
-<br>
-
-<div align="center">
-<img src="assets/horns-10-minutos-al-dia.png" width="380" alt="10 minutos al día">
-<img src="assets/horns-poster-practica-en-tu-tono.png" width="380" alt="Práctica en tu tono">
-</div>
+Notas con audio: pasas por encima y suenan.
 
 <br>
 
 ## Estado
 
-En concepto. Identidad visual y campaña definidas. Destino: App Store.
+App web terminada, construida como PWA — se instala desde el navegador.
+Pendiente de desplegar.
 
 <br>
 
